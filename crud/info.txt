@@ -1,0 +1,3 @@
+To start , create a new app 
+Then need to install the package @blueprintjs/core
+The import it in index.css
