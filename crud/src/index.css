@@ -3,6 +3,9 @@
 @import "~@blueprintjs/icons/lib/css/blueprint-icons.css";
 
 body{
+  margin-top: 100px;
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
